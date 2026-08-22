@@ -1,6 +1,6 @@
 # HackerRank-Problem-Solving-With-Python
 > HackerRank `PS`.
-## problems sloved:
+## Problems Solved:
   * calendar-module.py
   * capitalize.py
   * compress-the-string.py
@@ -19,3 +19,4 @@
   * triangle-quest-2.py
   * word-order.py
   * write-a-function.py
+# Ahmed Yousef Bakry
